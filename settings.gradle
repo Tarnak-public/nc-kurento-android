@@ -1,1 +1,2 @@
+include ':webrtcpeer-debug'
 include ':app'
